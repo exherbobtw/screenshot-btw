@@ -1,4 +1,5 @@
 /*
+ * i like yuri
  * simple wayland ss tool in c++
  */
 #include <cstdlib>
